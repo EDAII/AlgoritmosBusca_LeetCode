@@ -1,7 +1,7 @@
 # Trabalho 1 - Exercícios do LeetCode
 
 Isabella Carneiro - 180019066
-Livia Rodrigues - 
+Livia Rodrigues - 180105051
 
 Neste trabalho, escolhemos **4 exercícios de nível difícil do LeetCode** com o objetivo de demonstrar nosso conhecimento em algoritmos, estruturas de dados e raciocínio lógico.  
 
