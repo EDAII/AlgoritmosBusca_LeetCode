@@ -10,7 +10,7 @@ Neste trabalho, escolhemos **4 exercícios de nível difícil do LeetCode** com 
 1. **483. Smallest Good Base** - [Link para o problema](https://leetcode.com/problems/smallest-good-base/description/?envType=problem-list-v2&envId=binary-search)  
 2. **493. Reverse Pairs** - [Link para o problema](https://leetcode.com/problems/reverse-pairs/description/?envType=problem-list-v2&envId=binary-search)  
 3. **732. My Calendar III** - [Link para o problema](https://leetcode.com/problems/my-calendar-iii/description/?envType=problem-list-v2&envId=binary-search)  
-4. **Nome do Exercício 4** - [Link para o problema](URL_DO_PROBLEMA)  
+4. **4. Median of Two Sorted Arrays** - [Link para o problema](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=binary-search)  
 
 ## Objetivo
 O objetivo deste trabalho é aplicar os conceitos aprendidos em sala de aula, explorando problemas de alta complexidade, e apresentar soluções eficientes e bem documentadas.
