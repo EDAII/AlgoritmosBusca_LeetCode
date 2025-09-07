@@ -8,8 +8,8 @@ Neste trabalho, escolhemos **4 exercícios de nível difícil do LeetCode** com 
 ## Exercícios Escolhidos
 
 1. **483. Smallest Good Base** - [Link para o problema](https://leetcode.com/problems/smallest-good-base/description/?envType=problem-list-v2&envId=binary-search)  
-2. **Nome do Exercício 2** - [Link para o problema](URL_DO_PROBLEMA)  
-3. **Nome do Exercício 3** - [Link para o problema](URL_DO_PROBLEMA)  
+2. **493. Reverse Pairs** - [Link para o problema](https://leetcode.com/problems/reverse-pairs/description/?envType=problem-list-v2&envId=binary-search)  
+3. **732. My Calendar III** - [Link para o problema](https://leetcode.com/problems/my-calendar-iii/description/?envType=problem-list-v2&envId=binary-search)  
 4. **Nome do Exercício 4** - [Link para o problema](URL_DO_PROBLEMA)  
 
 ## Objetivo
