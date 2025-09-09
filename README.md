@@ -18,3 +18,6 @@ O objetivo deste trabalho é aplicar os conceitos aprendidos em sala de aula, ex
 ## Estrutura do Repositório
 - Cada pasta contém o código-fonte da solução de um exercício.  
 - Os arquivos seguem a convenção de nomenclatura baseada no nome ou número do problema no LeetCode.
+
+## Apresentação
+**Busca Binária LeetCode** - [Link para a apresentação](https://www.youtube.com/watch?v=XxkF8XabC6Q)  
