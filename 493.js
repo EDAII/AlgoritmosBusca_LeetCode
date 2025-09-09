@@ -1,4 +1,4 @@
-function reversePairsBinarySearch(nums) {
+var reversePairs = function(nums) {
   const seen = [];
   let count = 0;
 
@@ -29,7 +29,4 @@ function reversePairsBinarySearch(nums) {
   }
 
   return count;
-}
-
-console.log(reversePairsBinarySearch([1, 3, 2, 3, 1])); 
-console.log(reversePairsBinarySearch([2, 4, 3, 5, 1]));
+};
